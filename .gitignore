@@ -1,0 +1,5 @@
+# all virtual env
+venv
+
+# misc 
+.DS_Store
